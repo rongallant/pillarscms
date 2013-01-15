@@ -1,0 +1,27 @@
+/* Breadcrumbs - START *************************************************************************/
+.breadcrumbs {
+	font-size: 11px;
+	text-align: left;
+	color: #6F6F6F;
+	height: 20px;
+	margin: 5px 0 0 5px;
+}
+
+.breadcrumbs A {
+	text-decoration: none;
+	color: #6F6F6F;
+}
+
+.breadcrumbs A:hover {
+	text-decoration: underline;
+	color: #005786;
+}
+
+.breadcrumbs A:active {
+	color: black;
+}
+
+A:visited {
+	color: #6F6F6F;
+}
+/* Breadcrumbs - END *************************************************************************/

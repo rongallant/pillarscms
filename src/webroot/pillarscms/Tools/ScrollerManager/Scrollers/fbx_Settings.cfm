@@ -1,0 +1,1 @@
+<cfset my.layout.mainmenu = "#fusebox.thiscircuit#.menu">

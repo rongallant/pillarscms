@@ -1,0 +1,30 @@
+.HomepageMenu {
+	padding: 0px;
+	margin: 0px;
+}
+
+.HomepageMenu LI {
+	list-style-image: none;
+	list-style-type: none;
+	padding: 5px;
+	margin: 5px;
+	background-color: #F1F1F1;
+	border: 1px dotted #ABABAB;
+	border-style: dashed;
+}
+
+.HomepageMenu A, .HomepageMenu A:Visited {
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.HomepageMenu A:Hover, .HomepageMenu A:Active {
+	text-decoration: underline;
+}
+
+.HomepageMenu .description {
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}

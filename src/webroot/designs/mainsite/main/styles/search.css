@@ -1,0 +1,57 @@
+.mySearchForm FORM {
+	text-align: center;
+	margin: 0;
+}
+
+.mySearchForm .mySearchField {
+	font-size: 11px;
+	background-color: #FFFFFF;
+	border: 1px solid #999999;
+}
+
+.mySearchButton {
+	font-size: 11px;
+	background-color: #CCCCCC;
+	border: 1px solid #999999;
+}
+
+.mySearch {
+	padding-right: 10px;
+	width: 100%;
+}
+
+.mySearch .summary {
+	margin-left: 20px;
+}
+
+.mySearch .number {
+	display: none;
+}
+
+.mySearch .row {
+}
+
+.mySearch .alt {
+}
+
+.mySearch .mySearchRow {
+	margin-bottom: 20px;
+}
+
+.mySearch .docTitle {
+	font-size: 16px;
+}
+
+.mySearch .pagination {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.mySearch .pagination A,
+.mySearch .pagination A:Hover,
+.mySearch .pagination A:Active,
+.mySearch .pagination A:Visited
+{
+	font-size: 14px;
+	text-decoration: none;
+}

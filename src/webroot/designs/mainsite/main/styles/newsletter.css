@@ -1,0 +1,19 @@
+.EditorTools {
+}
+
+.EditorTools LI {
+	display: inline;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0 3px 0 3px;
+}
+
+.EditorTools A, .EditorTools A:visited {
+	text-decoration: none;
+	color: #333333;
+}
+
+.EditorTools A:hover, .EditorTools A:active {
+	text-decoration: underline;
+	color: #333333;
+}

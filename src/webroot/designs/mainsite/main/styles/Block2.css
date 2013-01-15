@@ -1,0 +1,21 @@
+/* Block Two - START *************************************************************************/
+.myBlockTwo {
+	border: 1px solid #CFD6DA;
+	margin-bottom: 10px;
+}
+
+.myBlockTwo .title {
+	font:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	color: #333333;
+	padding: 3px;
+	background-color: #CFD6DA;
+}
+
+.myBlockTwo .body {
+	font-size: 12px;
+	background-color: whitesmoke;
+	padding: 8px;
+}

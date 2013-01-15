@@ -1,0 +1,17 @@
+/* Block One - START *************************************************************************/
+.myBlockOne {
+	margin-bottom: 10px;
+}
+
+.myBlockOne .title {
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding: 3px;
+}
+
+.myBlockOne .body {
+	font-size: 12px;
+	background-color: #FFFFFF;
+	padding: 8px;
+}

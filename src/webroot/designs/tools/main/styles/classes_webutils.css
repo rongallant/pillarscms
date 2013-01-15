@@ -1,0 +1,304 @@
+.fieldname {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #A0410D;
+	background-color: #FFBA68;
+	border: solid #A0410D 1px;
+}
+
+.fieldbox {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	background-color: #ffffff;
+	border:solid silver 1px;
+}
+
+.smallnote {
+	font-family: Arial, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+}
+
+.menulink {
+	font-family: Arial,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #A0410D;
+	text-decoration: none;
+}
+
+#marquee {
+	font-size: 12pt;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: #009FDD;
+	padding: 5px;
+	border-width: 0px;
+	text-decoration: none;
+	background-color: white;
+}
+
+A#marquee {
+	color: #009FDD;
+	text-decoration: none;
+}
+
+A:hover#marquee {
+	color: #009FDD;
+	text-decoration: underline;
+}
+
+A:active#marquee {
+	color: #009FDD;
+}
+
+A:visited#marquee {
+	color: #009FDD;
+}
+
+.TopMenu { 
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	margin: 5px;
+	color: #006CDE;
+}
+
+.StartMenu { 
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #006CDE;
+	margin: 5px;
+}
+
+#headerred { 
+	font-size: 15pt;
+	font-family:Arial, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	margin: 5px;
+	color: #006CDE;
+}
+
+#smallfont {
+	font-size: 12px;
+}
+
+#tdata { 
+	font-size: 9pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	width: 140px;
+	color: #0033CC;
+}
+
+#textsmall1 { 
+	font-size: 8pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	text-color: blue;
+}
+
+#FormHeader { 
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: #006CDE;
+}
+
+#textsmall3 { 
+	font-size: 8pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	text-color: blue;
+}	
+
+#textsmall4 { 
+	font-size: 9pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	text-align: center;
+	text-color: black;
+}
+
+#date { 
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+	font-weight: normal;
+	font-style: bold;
+	padding-right: 10px;
+}
+
+#red { 
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+	font-weight: bold;
+	color: red;
+}
+
+#TodaysDate {
+	font-size: 8pt;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	float: right;
+	padding: 5px;
+}
+
+.shadow {		
+	font: Bold x-large/140% Arial, sans-serif;
+	color: #006CDE;
+	filter: shadow(Color=#FFFF00,Direction=135);
+	width: auto;
+	height: auto;
+	position: relative;
+}
+
+.TableBorder {
+	background: white;
+}
+
+.SectionTitle {
+	width: 91%;
+	padding: 3px;
+	margin: 1px;
+	background-color: White;
+	border: solid 1px #0071BD;
+}
+
+.SectionHeading {
+	width: 100px;
+	background-color: #0071BD;
+}
+
+.SectionHeadingTxt {
+	font-family: arial, san-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+}
+
+.LinkOnBg {
+	font-family: arial, san-serif;
+	font-size: 12px;
+	color: #0071BD;
+}
+
+#buttons, .button {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #993300;
+	border-color: #993300;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #FFBA68;
+}
+
+.buttons {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #993300;
+	border-color: #993300;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #FFBA68;
+	cursor: pointer;
+}
+
+.TDBackground, #FormHeader, .ListHeader, .TDBackground A:Link {
+	font-family: arial, san-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #993300;
+	background-color: #FFBA68;
+}
+
+.MainMenu {
+	font-family: arial, san-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #993300;
+	background-color: #FFBA68;
+}
+
+.colored {
+	font-family: arial, san-serif; 
+	font-size: 12px; 
+	font-weight: normal; 
+	color: black;
+	padding-left: 3px;
+	background: #FFDDBC;
+}
+
+.white {
+	font-family: arial, san-serif;
+	font-size: 12px; 
+	font-weight: normal; 
+	color: black;
+	padding-left: 3px;
+	background: white;
+}
+
+.tableTitle {
+	font-family: arial, san-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+}
+
+.tableSubTitle {
+	font-family: arial, san-serif; 
+	font-size: 12px; 
+	font-weight: normal; 
+	color: white;
+	margin-bottom: 8px;
+}
+
+.smallwhite {
+	font-family: arial; 
+	font-size: 11px; 
+	font-weight: bold; 
+	color: white;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+
+.columnhead {
+	font-family: arial, san-serif; 
+	font-size: 12px; 
+	font-weight: bold; 
+	color: #993300;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.check {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+	
+.normal {
+	font-family: arial; 
+	font-size: 12px; 
+	font-weight: normal; 
+	color: black;
+	padding-left: 3px;
+}

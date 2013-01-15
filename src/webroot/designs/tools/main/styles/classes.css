@@ -1,0 +1,100 @@
+.field {
+	background-color:#F0F0F0;
+	padding: 3px;
+	margin: 10px 0 10px 0;
+}
+
+.myPageTitle {
+	font-family: arial, san-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+}
+
+.myPageSubtitle {
+	font-family: arial, san-serif; 
+	font-size: 12px; 
+	font-weight: normal; 
+	color: white;
+	margin-bottom: 8px;
+}
+
+.myFieldTitle {
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	background-color: #B8B8B8;
+}
+
+.myButton, .myTextarea, .myText, .mySelect, .myRadio {
+	font-family: arial, san-serif;
+	font-size: 12px;
+}
+
+.myButton {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+	border-style: solid;
+	border-width: 1px;
+	background-color: #CCCCCC;
+	cursor: pointer;
+}
+
+.myTextarea {
+	width: 100%;
+}
+
+.myText {
+
+}
+
+.mySelect {}
+
+.myRadio {}
+
+.myRow1 {
+	background: #FFFFFF;
+}
+
+.myRow2 {
+	background-color: #F0F0F0;
+}
+
+.myRowHover {
+	background-color: #C0C0C0;
+}
+
+.myExample {
+	font-size: 11px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+#BlockOneMenu A, #BlockOneMenu A:visited {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: right;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#WarningBox {
+	text-align:center;
+	border: solid 1px red;
+	background-color: #FCD6D6;
+	padding: 5px;
+	margin: 3px;
+}
+
+#WarningBox P {
+	font-weight:bold;
+}
+
+#WarningBox .myButton {
+	color: #FFFFFF;
+	border: solid 1px #000000;
+	background-color:#D50000;
+	
+}

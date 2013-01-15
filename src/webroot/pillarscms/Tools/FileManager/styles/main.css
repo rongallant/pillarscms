@@ -1,0 +1,166 @@
+#ToolsHeading {
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 5px;
+	background-color: #616161;
+}
+
+#ToolsSubHeading {
+	font-size: 14px;
+	padding: 5px;
+	margin: 0px;
+	background-color: #efefef;
+}
+
+#ToolsBody {
+	padding: 1px;
+	margin: 0px;
+	background-color: #fff;
+}
+
+#ToolsBody A {
+	text-decoration: none;
+	color: #000000;
+}
+
+#ToolsBody A:Hover {
+	text-decoration: underline;
+	color: #000000;
+}
+
+#ToolsBody A:Active {
+	color: #000000;
+}
+
+#ToolsBody A:Visited {
+	color: #747474;
+}
+
+#ToolsBody LABEL {
+	width: 150px;
+	padding: 2px;
+	background-color: #e0e0e0;
+	margin: 2px;
+	cursor: pointer;
+}
+#ToolsBody FIELDSET {
+	margin: 0px 0px 20px 0px;
+}
+
+#ToolsBody .myButton {
+	border: solid 1px #616161;
+	background-color: #e0e0e0;
+	cursor: pointer;
+}
+
+#ToolsBody .myText {
+	border: solid 1px #616161;
+}
+
+#ToolsBody .myTextArea {
+	border: solid 1px #616161;
+}
+
+#ToolsBody .mySelect {
+	border: solid 1px #616161;
+	background-color: #e0e0e0;
+}
+
+#ToolsBody .buttonBox {
+	text-align: right;
+	margin: 5px;
+}
+
+#ToolsBody #fieldnote {
+	font-size: 11px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#ToolsBody #FieldBlock {
+	margin-bottom: 10px;
+}
+
+#ToolsBody #FileList {
+	margin: 0px 0px 0px 20px;
+	padding: 0px;
+}
+
+#ToolsBody #FileList LI  {}
+
+#ToolsBody #FileList LI A {
+	margin-left: 5px;
+}
+
+#ToolsBody #FileList #folder {
+	list-style.image: url(../images/folder.gif);
+}
+
+#ToolsBody #FileList #image {
+	list-style.image: url(../images/image.gif);
+}
+
+#ToolsBody #FileList #file {
+	list-style.image: url(../images/file.gif);
+}
+
+#ToolsBody #folder A, #ToolsBody #folder A:Hover, #ToolsBody #folder A:Visited, #ToolsBody #folder A:Active {
+	font-weight: bold;
+}
+
+/** Files SubMenu *****************************************/
+#toolsSubMenu {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+}
+/** Files SubMenu *****************************************/
+#toolsSubMenu H1 {
+	font-size: 11px;
+}
+
+#toolsSubMenu UL {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	white-space: nowrap;
+}
+
+#toolsSubMenu UL LI {
+	list-style-type: none;
+	list-style-image: none;
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+
+#toolsSubMenu UL LI A, #toolsSubMenu UL LI A:Visited {
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+	padding: 3px;
+	margin: 0px;
+	background-color: silver;
+	width: 30%;
+}
+
+#toolsSubMenu UL LI A:Hover, #toolsSubMenu UL LI A:Active {
+	text-decoration: none;
+	color: white;
+	background-color: #616161;
+	margin: 0px;
+}
+
+
+#toolsSubMenu UL LI A#me, #toolsSubMenu UL LI A:Visited#me {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	padding: 3px;
+	margin: 0px;
+	background-color: #616161;
+	width: 30%;
+}

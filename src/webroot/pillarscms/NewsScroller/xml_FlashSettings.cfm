@@ -1,0 +1,10 @@
+<cfoutput>
+<settings>
+	<width>#qNewsScroller.width#</width>
+	<height>#qNewsScroller.height#</height>
+	<scroll_time>#qNewsScroller.scrolltime#</scroll_time>
+	<stop_time>#qNewsScroller.stoptime#</stop_time>
+	<background_color>0x#qNewsScroller.bgcolor#</background_color>
+	<delay>3</delay>
+</settings>
+</cfoutput>

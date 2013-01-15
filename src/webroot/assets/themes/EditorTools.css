@@ -1,0 +1,33 @@
+.EditorIcon {
+	text-align: right;
+}
+
+.EditorTools UL {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.EditorTools LI {
+	text-align: left;
+	display: inline;
+	list-style-image: none;
+	list-style-type: none;
+	margin: 0 3px 0 3px;
+}
+
+.EditorTools A, .EditorTools A:Visited {
+	font-weight: bold;
+	text-decoration:none;
+	color: #424242;
+}
+
+.EditorTools A:Hover, .EditorTools A:Active {
+	text-decoration:none;
+}
+
+#navbar A, #navbar A:Visited {
+	font-weight: bold;
+	text-decoration: none;
+	color: #424242;
+}

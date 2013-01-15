@@ -1,0 +1,25 @@
+/* *******************************************
+generic styles used by app
+******************************************* */
+
+.admintoggle {
+	text-align: right;
+}
+
+.admintoggle A,
+.admintoggle A:visited {
+	font: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #000000;
+}
+
+.admintoggle A:hover,
+.admintoggle A:active {
+	text-decoration: underline;
+}
+
+.EditableArea {
+}
+.EditorIcon {}

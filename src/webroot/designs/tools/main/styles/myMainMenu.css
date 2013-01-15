@@ -1,0 +1,38 @@
+/* Main Menu */
+#myMainMenu {
+	text-align: center;
+}
+
+#myMainMenu UL {
+	padding: 0px;
+	margin: 0px;
+	margin-left: 2px;
+	white-space: nowrap;
+	position: relative;
+	text-align: center;
+}
+
+#myMainMenu LI {
+	list-style-type: none;
+	display: block;
+	width: 120px;
+	float: left;
+}
+
+#myMainMenu A, #myMainMenu A:Visited {
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	padding: 2px;
+	margin: 2px 2px 2px 0px;
+	color: #A0410D;
+	background-color: #FFDDBC;
+	display: block;
+	width: 120px;
+}
+
+#myMainMenu A:Hover {
+	text-decoration: none;
+	background-color: #FFD98D;
+}

@@ -1,0 +1,106 @@
+BODY {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0 0 0 0;
+}
+
+P {
+	font-size: 14px;
+}
+
+TD {
+	font-size: 14px;
+}
+
+IMG {
+}
+
+LEGEND {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+BLOCKQUOTE {
+	font-size: 14px;
+	font-style: italic;
+}
+
+A {
+	text-decoration: underline;
+	color: #6F6F6F;
+}
+
+A:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+A:active {
+	/*color: red;*/
+}
+
+A:visited {
+	/*color: purple;*/
+}
+
+H1	{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 24px;
+	font-weight: strong;
+	margin-top: 10px;
+}
+
+H2	{
+	font-size: 20px;
+	font-weight: strong;
+	color: #6F6F6F;
+}
+
+H3	{
+	font-size: 18px;
+	font-weight: strong;
+	color: #6F6F6F;
+}
+
+H4	{
+	font-size: 16px;
+	font-weight: strong;
+	color: #000000;
+	margin-top: 35px;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+H5	{
+	font-size: 14px;
+	font-weight: strong;
+	color: #6F6F6F;
+}
+
+H6	{
+	font-size: 14px;
+	font-weight: strong;
+	color: #6F6F6F;
+}
+
+HR {
+	color: #B4B3B3;
+	margin: 0px;
+	padding: 0px;
+	height: 2px;
+}
+
+SUP	{
+	font-family: arial;
+	font-size: 80%;
+	font-weight: normal;
+}
+
+UL {
+}
+
+OL {
+}
+
+LI {
+	font-size: 14px;
+}

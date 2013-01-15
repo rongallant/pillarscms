@@ -1,0 +1,34 @@
+
+	<!--
+		'timer' :: number of seconds between each image transition 'fadeTime'
+		:: velocity of image crossfade. Increment for faster fades, decrement
+		for slower 'order' :: how you want your images displayed. choose
+		either 'sequential' or 'random' 'looping' :: if the slide show is in
+		sequential mode, this stops the show at the last image (use 'yes' for
+		looping, 'no' for not)
+	-->
+
+<gallery timer="7" fadetime="5" order="random" looping="yes">
+	<image path="designs/mainsite/main/images/buildingPix/car.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/col.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/dcc.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/fcc.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/ftl.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/ftm.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/gnv.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/jma.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/mer.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/mia.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/mnt.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/nas.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/orl.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/ots.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/pan.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/roc.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/sar.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/tal.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/tam.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/whs.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/wip.jpg" />
+	<image path="designs/mainsite/main/images/buildingPix/wpb.jpg" />
+</gallery>

@@ -1,0 +1,53 @@
+.myMainMenu {
+	width: 178px; 
+}
+
+.myMainMenu UL {
+	margin: 0px;
+	padding: 0px;
+	list-style-image: none;
+	list-style-type: none;
+}
+
+.myMainMenu UL LI {
+
+}
+
+.myMainMenu UL A, .myMainMenu UL A:visited {
+	text-decoration: none;
+	/*color: #000000;
+	padding: 3px;
+	margin: 1px;
+	background-color: #B4B3B3;*/
+	display: block;
+	width: 100%;
+}
+
+.myMainMenu UL A:hover, .myMainMenu UL A:active {
+	text-decoration: none;
+	/*color: #000000;
+	background-color: #999999;*/
+}
+
+/* Sub Menu */
+
+.myMainMenu UL UL {
+	display: none;
+}
+
+.myMainMenu UL UL.active {
+	display: block;
+}
+
+.myMainMenu UL UL A, .myMainMenu UL UL A:visited {
+	text-decoration: none;
+	/*color: #000000;*/
+	padding: 3px;
+	margin: 1px 1px 1px 10px;
+	/*background-color: #999999;*/
+	width: 95%;
+}
+
+.myMainMenu UL UL A:hover, .myMainMenu UL UL A:active {
+	background-color: #666666;
+}

@@ -1,0 +1,12 @@
+@import url(EditorTools.css);
+
+/* debug scripts */
+.errorlayer {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	/* display: none; */
+	padding: 5px;
+	border: solid 1px red;
+	background-color: white;
+}

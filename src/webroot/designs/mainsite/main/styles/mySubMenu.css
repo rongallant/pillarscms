@@ -1,0 +1,53 @@
+/* Main menu **********************************************/
+
+.mySubMenu {
+	width: 100%;
+	background-color: #3D3D3D;
+	padding: 10px 0 10px 5px;
+	border-bottom: 3px solid #7C7C7C;
+	margin: 0 0 10px 0;
+}
+
+.mySubMenu UL {
+	padding: 0;
+	margin: 0;
+}
+
+.mySubMenu UL LI {
+	list-style-image: none;
+	list-style-type: none;
+}
+
+/*Top level menu*/
+.mySubMenu A, .mySubMenu A:visited {
+	font-weight: normal;
+	font-size: 12px;
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 5px 0 5px 3px;
+	width: 100%;
+}
+
+.mySubMenu UL LI A:hover {
+	text-decoration: none;
+	color: #F7EAB5;
+	background-color: #666666;
+}
+
+
+/*Top level menu*/
+.mySubMenu A#me, .mySubMenu A#me:visited {
+	background-color: #484848;
+	border: 1px solid #7C7C7C;
+	border-right: 0;
+}
+
+.mySubMenu A#me:hover {
+	text-decoration: none;
+	cursor: default;
+}
+
+
+.mySubMenu UL .inactive {
+	display: none;
+}
