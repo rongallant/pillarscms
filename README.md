@@ -1,10 +1,20 @@
 #pillarscms
 
-PillarsCMS is an application and content management system designed in the Fusebox framework.
+PillarsCMS is an application and content management system designed in the [Fusebox](http://www.fusebox.org/) framework.  
+PillarsCMS has been designed to work with the open source [Coldfusion](http://www.adobe.com/products/coldfusion/) application server [Railo](http://www.getrailo.com/) and the popular database server [MySQL](http://www.mysql.com/).  
 
-PillarsCMS has been designed to work with the open source Coldfusion application server Railo and the popular database server MySQL.
+## Project Links
 
-##Installation
+*   [Project Page](https://github.com/rongallant/pillarscms)
+
+## Technologies
+
+*   [Coldfusion Language](http://www.adobe.com/products/coldfusion/)
+*   [Fusebox Framework](http://www.fusebox.org/)
+*   [Railo Application Server](http://www.getrailo.com/)
+*   [MySQL Database](http://www.mysql.com/)
+
+## Installation
 
 * Unzip downloaded file.
 * Move contents of (webroot) folder into your Railo webroot.
