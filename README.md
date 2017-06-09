@@ -28,5 +28,3 @@ Go to your new homepage.
 * If not already done, log into your site.
 * At the bottom right of the site you will find a link to your administration panel.
 * Have at it.
-
-We will add a complete users guide in the future.
