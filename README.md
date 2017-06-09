@@ -5,7 +5,7 @@ PillarsCMS has been designed to work with the open source [Coldfusion](http://ww
 
 ## Project Links
 
-*   [Project Page](https://github.com/rongallant/pillarscms)
+*   [Project Page](https://rongallant.github.io/pillarscms/)
 
 ## Technologies
 
